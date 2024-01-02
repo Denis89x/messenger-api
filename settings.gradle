@@ -1,0 +1,4 @@
+rootProject.name = 'messenger-api'
+include 'auth-api'
+include 'messenger-server'
+include 'settings-api'
